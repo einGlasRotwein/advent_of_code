@@ -3,7 +3,7 @@ library(tidyverse)
 
 # Read in data
 # https://adventofcode.com/2020/day/1/input
-day1 <- readLines("./data/input_day1.txt", strin)
+day1 <- readLines("./data/input_day1.txt")
 day1 <- as.numeric(day1)
 
 #### PART 1 ####
